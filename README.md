@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou a Isabella!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-🛡️ Foco em **Cibersegurança** 
-💡 Apaixonada por aprender, resolver problemas e construir soluções úteis!
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🛡️ Foco em **Cibersegurança** 
+- 💡 Apaixonada por aprender, resolver problemas e construir soluções úteis!
 
 
 ##  💻 Tecnologias que estou estudando
@@ -37,13 +37,13 @@
 ##  📫 Contato
 
 -  ✉️ [isabella.jacquess@gmail.com](mailto:isabella.jacquess@gmail.com)
--  🌐 [LinkedIn](https://www.linkedin.com/)()
+-  🌐 [LinkedIn](https://www.linkedin.com/)(https://www.linkedin.com/in/isabella-jacques-b00a52377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
   <div align = "center">
 
-    ![Visitantes](https://komarev.com/ghpvc/?username=isabellajacques&color=ff69b4&style=for-the-badge&label=VISITAS+NO+PERFIL)
-
+   ![Visitantes](https://img.shields.io/badge/Visitantes-no_perfil-ff69b4?style=for-the-badge)
+   
   </div>
 
 
