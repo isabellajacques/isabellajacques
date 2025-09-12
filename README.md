@@ -57,14 +57,4 @@
 ---
 
 
-<div align="center">
-
-   ![Visitantes](https://img.shields.io/badge/Visitantes-no_perfil-ff69b4?style=for-the-badge)
-   
-  </div>
-
-
----
-
-
 ⭐️ **Se quiser, veja meus projetos abaixo!**
