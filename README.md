@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Isabella!
+# 👋 Olá, eu sou a Isabella Jacques!
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 🛡️ Foco em **Cibersegurança** 
